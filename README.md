@@ -1,2 +1,2 @@
-# boaz/chatGPT.io
+# boaz.chatGPT.io
 gemaakt met ai
